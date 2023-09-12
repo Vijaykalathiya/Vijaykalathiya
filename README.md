@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🛠 Frequently used languages and tools</h3>
+<h3 align="left">🛠 Frequently used technologies and tools</h3>
 
 ###
 
